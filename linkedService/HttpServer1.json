@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXVvUjVqbHloMW5GdDdwbWxjLTM3YTd1SFl2d3xBQ3Jtc0tucFdhYjFTSTJRRTRKclJIbndRcmt3NGhFNkE1ZkN4NjdqUTlkNVNERUQtYTV3QjE2ZkVqVV9KWnZBT1lURC1rTjViUlVlV2FiM3dJdVRDbjg1OE1ldE5vZ292SVpQU3QtanM0WFlyN2F3OEdxZnlzMA&q=https%3A%2F%2Fdrive.usercontent.google.com%2Fu%2F0%2Fuc%3Fid%3D1bmmtkc5NLZQ4iU6Qz_7di-juuxA2kT1t%26export%3Ddownload&v=NaNZ6kMS8Oo",
+			"url": "https://drive.usercontent.google.com/download?id=1bmmtkc5NLZQ4iU6Qz_7di-juuxA2kT1t&export=download&authuser=0",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
